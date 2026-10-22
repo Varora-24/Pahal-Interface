@@ -87,8 +87,9 @@ This repository is pre-configured for seamless deployment to Vercel.
 
 This project is actively maintained. Contributions, bug reports, and feature requests are always welcome! 
 
-**Developer:** Arnav Shukla
-- [LinkedIn Profile](https://www.linkedin.com/in/arnav-shukla-19615128a/)
+**Project Head:** Vansh Arora
+- [LinkedIn Profile](https://in.linkedin.com/in/vansh-arora-702258254/)
+- [GitHub Profile](https://github.com/Varora-24)
 
 Please read `CODE_OF_CONDUCT.md` for details on our code of conduct.
 
